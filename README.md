@@ -1,6 +1,6 @@
 # About Project
 
-This is the first project of [**Zero to Mastery**](https://zerotomastery.io/) academy course [**Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)**](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery), which is asked to build in section *three*. * While building this project student will practise most basic topics in **React js**. And It's a good review to advanced concepts in javascript such as *Promises, Async and Sync*, *Modules using and exporting*, *Error handling*. 
+This is the first project of [**Zero to Mastery**](https://zerotomastery.io/) academy course [**Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)**](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery), which is asked to build in section *three*. While building this project student will practise most basic topics in **React js**. And It's a good review to advanced concepts in javascript such as *Promises, Async and Sync*, *Modules using and exporting*, *Error handling*. 
 
 ## What advantages did I get?
 
