@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Monsters-Rolodex/static/css/main.b50fec64.chunk.css",
-    "main.js": "/Monsters-Rolodex/static/js/main.e0f82a43.chunk.js",
-    "main.js.map": "/Monsters-Rolodex/static/js/main.e0f82a43.chunk.js.map",
-    "runtime-main.js": "/Monsters-Rolodex/static/js/runtime-main.294938d9.js",
-    "runtime-main.js.map": "/Monsters-Rolodex/static/js/runtime-main.294938d9.js.map",
-    "static/js/2.49d179e1.chunk.js": "/Monsters-Rolodex/static/js/2.49d179e1.chunk.js",
-    "static/js/2.49d179e1.chunk.js.map": "/Monsters-Rolodex/static/js/2.49d179e1.chunk.js.map",
-    "static/js/3.3756f51b.chunk.js": "/Monsters-Rolodex/static/js/3.3756f51b.chunk.js",
-    "static/js/3.3756f51b.chunk.js.map": "/Monsters-Rolodex/static/js/3.3756f51b.chunk.js.map",
+    "main.css": "/Monsters-Rolodex/static/css/main.9b9c3b9e.chunk.css",
+    "main.js": "/Monsters-Rolodex/static/js/main.038724f0.chunk.js",
+    "main.js.map": "/Monsters-Rolodex/static/js/main.038724f0.chunk.js.map",
+    "runtime-main.js": "/Monsters-Rolodex/static/js/runtime-main.d3fc6012.js",
+    "runtime-main.js.map": "/Monsters-Rolodex/static/js/runtime-main.d3fc6012.js.map",
+    "static/js/2.8ec742ea.chunk.js": "/Monsters-Rolodex/static/js/2.8ec742ea.chunk.js",
+    "static/js/2.8ec742ea.chunk.js.map": "/Monsters-Rolodex/static/js/2.8ec742ea.chunk.js.map",
+    "static/js/3.1d5cdb42.chunk.js": "/Monsters-Rolodex/static/js/3.1d5cdb42.chunk.js",
+    "static/js/3.1d5cdb42.chunk.js.map": "/Monsters-Rolodex/static/js/3.1d5cdb42.chunk.js.map",
     "index.html": "/Monsters-Rolodex/index.html",
-    "static/css/main.b50fec64.chunk.css.map": "/Monsters-Rolodex/static/css/main.b50fec64.chunk.css.map",
-    "static/js/2.49d179e1.chunk.js.LICENSE.txt": "/Monsters-Rolodex/static/js/2.49d179e1.chunk.js.LICENSE.txt",
+    "static/css/main.9b9c3b9e.chunk.css.map": "/Monsters-Rolodex/static/css/main.9b9c3b9e.chunk.css.map",
+    "static/js/2.8ec742ea.chunk.js.LICENSE.txt": "/Monsters-Rolodex/static/js/2.8ec742ea.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Monsters-Rolodex/static/media/GillSans-Medium.ff7a58f1.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.294938d9.js",
-    "static/js/2.49d179e1.chunk.js",
-    "static/css/main.b50fec64.chunk.css",
-    "static/js/main.e0f82a43.chunk.js"
+    "static/js/runtime-main.d3fc6012.js",
+    "static/js/2.8ec742ea.chunk.js",
+    "static/css/main.9b9c3b9e.chunk.css",
+    "static/js/main.038724f0.chunk.js"
   ]
 }
